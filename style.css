@@ -1,4 +1,5 @@
 body{
+<<<<<<< HEAD
     background-color: lightpink;
 }
 h1{
@@ -9,4 +10,17 @@ mark{
 }
 article{
     color: indigo;
+=======
+    background-color: lightgreen;
+}
+mark{
+color: brown;
+}
+
+h2{
+color: rgb(236, 14, 170);
+}
+article{
+color: blueviolet;
+>>>>>>> 3b067f096152ca3795693dd68626ab2b8beec23e
 }
